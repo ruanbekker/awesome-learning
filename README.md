@@ -7,6 +7,10 @@ Repository with Curated Learning Content
 
 ## Courses
 
+### Docker
+
+- [Labs: Play with Docker](https://www.docker.com/101-tutorial)
+
 ### Kubernetes
 
 - [Techworld with Nana Kubernetes Course](https://dev.to/techworld_with_nana/full-kubernetes-course-free-24hp)
