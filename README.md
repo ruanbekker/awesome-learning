@@ -17,3 +17,4 @@ Repository with Curated Learning Content
 - [Rancher Kubernetes](https://academy.rancher.com/courses/course-v1:RANCHER+K101+2019/about)
 - [Kelsey Hightower - Learn Kubernetes the Hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [Nigel Poulton](https://nigelpoulton.com/about)
+- [@kodekloud Fun Challenges to be played on Kubernetes](https://kodekloud.com/p/game-of-pods)
