@@ -18,3 +18,7 @@ Repository with Curated Learning Content
 - [Kelsey Hightower - Learn Kubernetes the Hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [Nigel Poulton](https://nigelpoulton.com/about)
 - [@kodekloud Fun Challenges to be played on Kubernetes](https://kodekloud.com/p/game-of-pods)
+
+### Terraform
+
+- [@freecodecamp: Terraform in 2 hours](https://www.youtube.com/watch?v=SLB_c_ayRMo)
