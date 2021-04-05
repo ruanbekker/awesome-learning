@@ -16,6 +16,7 @@ Repository with Curated Learning Content
 - [Techworld with Nana Kubernetes Course](https://dev.to/techworld_with_nana/full-kubernetes-course-free-24hp)
   - [Kubernetes](https://www.youtube.com/watch?v=X48VuDVv0do)
   - [Kubernetes Operators](https://www.youtube.com/watch?v=ha3LjlD6g7g)
+  - [Kubernetes Ingress](https://youtu.be/80Ew_fsV4rM)
   - [Helm](https://www.youtube.com/watch?v=-ykwb1d0DXU)
   - [Istio](https://www.youtube.com/watch?v=16fgzklcF7Y)
   - [Prometheus](https://www.youtube.com/watch?v=h4Sl21AKiDg) 
